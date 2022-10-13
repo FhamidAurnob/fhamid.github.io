@@ -1,2 +1,0 @@
-# fhamid.github.io
-Portfolio

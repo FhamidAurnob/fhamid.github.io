@@ -1,28 +1,22 @@
-/*=============== SHOW MENU ===============*/
+/*=============== CHANGE BACKGROUND HEADER ===============*/
 
 
-/*=============== REMOVE MENU MOBILE ===============*/
+/*=============== SERVICES MODAL ===============*/
 
 
-/*=============== SWIPER PROJECTS ===============*/
+/*=============== MIXITUP FILTER PORTFOLIO ===============*/
+
+
+/* Link active work */ 
 
 
 /*=============== SWIPER TESTIMONIAL ===============*/
 
 
-/*=============== EMAIL JS ===============*/
-
-
 /*=============== SCROLL SECTIONS ACTIVE LINK ===============*/
 
 
-/*=============== SHOW SCROLL UP ===============*/ 
-
-
-/*=============== DARK LIGHT THEME ===============*/ 
-
-
-/*=============== CHANGE BACKGROUND HEADER ===============*/
+/*=============== LIGHT DARK THEME ===============*/ 
 
 
 /*=============== SCROLL REVEAL ANIMATION ===============*/
